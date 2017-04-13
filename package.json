@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "*TO-ACCOMPLISH 1) Mobility       a. Make buttons with key strokes wasd to move the x y coordinates by 1       b. Set boundaries to stop infinity grid end game on those points (collision)       c. Auto walk capability 2) Gluttony for the snake       Random food generator       Growing the progress 3) AmIthere yet?     var score = snakeArray.length;*",
+  "main": "snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeAboy/snake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeAboy/snake/issues"
+  },
+  "homepage": "https://github.com/GabeAboy/snake#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
